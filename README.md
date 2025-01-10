@@ -42,15 +42,15 @@
 
 ## ℹ️ Additional Features
 
-   # "About" section for project details.
+   * "About" section for project details.
    
-   # Exit option to safely close the application.
+   * Exit option to safely close the application.
 
 ## Technologies Used 💻
-Java: Core logic and backend.
+ * Java: Core logic and backend.
 
-Java Swing: User Interface design.
+ * Java Swing: User Interface design.
 
-Java AWT: Event handling.
+ * Java AWT: Event handling.
 
-Image Handling: Scaled images for enhanced visual appeal.
+ * Image Handling: Scaled images for enhanced visual appeal.
