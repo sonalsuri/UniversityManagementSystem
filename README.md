@@ -8,13 +8,17 @@
  🧑‍🏫 Faculty Management
 
    Add new faculty information.
+   
    View faculty details.
+   
    Track faculty attendance and leave records.
 
 👨‍🎓 Student Management
 
    Add new student information.
+   
    View student details.
+   
    Monitor student attendance and leave records.
 
 📅 Attendance Tracking
@@ -23,19 +27,23 @@
 
 📝 Examination Management
 
-    Enter student marks.
-    View examination results.
+   Enter student marks.
+   
+   View examination results.
 
 💸 Fee Management
 
    View the fee structure.
+  
    Fill out student fee forms.
 
 🔧 Utility Tools
    Built-in Notepad and Calculator for quick use.
 
 ℹ️ Additional Features
+
    "About" section for project details.
+   
     Exit option to safely close the application.
 
 ## Technologies Used 💻
