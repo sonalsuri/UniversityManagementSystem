@@ -4,47 +4,47 @@
  features a user-friendly GUI developed using Java Swing and handles tasks such as managing student and faculty information, attendance tracking, leave applications, examination details, 
  fee management, and utility tools like a calculator and notepad.
 
-## Features ✨
- 🧑‍🏫 Faculty Management
+# Features ✨
+ ## 🧑‍🏫 Faculty Management
 
-   Add new faculty information.
+   * Add new faculty information.
    
-   View faculty details.
+   * View faculty details.
    
-   Track faculty attendance and leave records.
+   * Track faculty attendance and leave records.
 
-👨‍🎓 Student Management
+## 👨‍🎓 Student Management
 
-   Add new student information.
+   * Add new student information.
    
-   View student details.
+   * View student details.
    
-   Monitor student attendance and leave records.
+   * Monitor student attendance and leave records.
 
-📅 Attendance Tracking
+## 📅 Attendance Tracking
 
-   Record and view attendance for both students and faculty.
+   * Record and view attendance for both students and faculty.
 
-📝 Examination Management
+## 📝 Examination Management
 
    Enter student marks.
    
    View examination results.
 
-💸 Fee Management
+## 💸 Fee Management
 
-   View the fee structure.
+   * View the fee structure.
   
-   Fill out student fee forms.
+   * Fill out student fee forms.
 
-🔧 Utility Tools
-   Built-in Notepad and Calculator for quick use.
+## 🔧 Utility Tools
+    * Built-in Notepad and Calculator for quick use.
 
-ℹ️ Additional Features
+## ℹ️ Additional Features
 
-   "About" section for project details.
+   # "About" section for project details.
    
-    Exit option to safely close the application.
+   # Exit option to safely close the application.
 
 ## Technologies Used 💻
 Java: Core logic and backend.
